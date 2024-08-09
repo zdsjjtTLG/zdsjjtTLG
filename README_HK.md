@@ -6,9 +6,9 @@
 你好，我是唐鎧(TangKai)，2020年畢業於哈爾濱工業大學 - 交通運輸工程專業，一名交通大數據算法工程師，開源事業的堅定擁護者
 
 
-- 📰 作品：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地图匹配python包</a>
+- 📰 作品：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地圖匹配框架</a>
 - 🎬 影片：<a href="https://space.bilibili.com/49719605" target="_blank">B站-码不停的Tank</a>
-- 🌈 影集：<a href="https://500px.com.cn/tangkai" target="_blank">500px主页</a>
+- 🌈 影集：<a href="https://500px.com.cn/tangkai" target="_blank">500px首頁</a>
 
 
 <h2>🏆 GitHub活動</h2>
