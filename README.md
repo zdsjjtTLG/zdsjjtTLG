@@ -5,7 +5,15 @@
 
 你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者
 
-也是一名B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，当然，我也是一名摄影爱好者，这是我的 [500px主页](https://500px.com.cn/tangkai)
+- 📰 作品：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地图匹配python包</a>
+- 🎬 视频：<a href="https://space.bilibili.com/49719605" target="_blank">B站-码不停的Tank</a>
+- 🌈 影集：<a href="https://500px.com.cn/tangkai" target="_blank">500px主页</a>
+
+
+<h2>✨ GitHub活动</h2>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zdsjjtTLG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdsjjtTLG&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 
 
 <h2>🧐 研究兴趣</h2>
@@ -16,11 +24,6 @@
 - **宏微观交通模型构建**
 - **拓扑网络分析**
 - **GIS空间分析等**
-
-<h2>🏆 GitHub活动</h2>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=#4472C4&days=90)](https://github.com/zdsjjtTLG)
-
 
 <h2>💻 集成开发环境</h2>
 

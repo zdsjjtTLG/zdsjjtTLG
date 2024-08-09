@@ -5,8 +5,14 @@
 
 Hello, I am Tang Kai. I graduated from Harbin Institute of Technology in 2020 with a major in transportation engineering. I am a traffic big data algorithm engineer, a staunch supporter of open source. 
 
-I am a blogger of Bilibili: [码不停的Tank](https://space.bilibili.com/49719605), Of course, I am also a photography enthusiast, this is my [500px Home Page](https://500px.com.cn/tangkai)
+- 📰 Work：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地图匹配python包</a>
+- 🎬 Video：<a href="https://space.bilibili.com/49719605" target="_blank">B站-码不停的Tank</a>
+- 🌈 PhotoAlbum：<a href="https://500px.com.cn/tangkai" target="_blank">500px主页</a>
 
+
+<h2>✨ GitHub Activity</h2>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zdsjjtTLG&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdsjjtTLG&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
 <h2>🧐 Research Interests</h2>
 
@@ -16,11 +22,6 @@ My main research interests focus on (but are not limited to):
 - **Construction of Macro and Micro Traffic Models**
 - **Topological Network Analysis**
 - **GIS Spatial Analysis, etc.**
-
-<h2>🏆 GitHub Activities</h2>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=#4472C4&days=90)](https://github.com/zdsjjtTLG)
-
 
 <h2>💻 IDE</h2>
 
