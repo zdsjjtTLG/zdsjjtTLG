@@ -19,10 +19,10 @@ Hello, I am Tang Kai. I graduated from Harbin Institute of Technology in 2020 wi
 
 My main research interests focus on (but are not limited to):
 
+- **GIS Spatial Analysis**
 - **Trajectory Data Mining**
-- **Construction of Macro and Micro Traffic Models**
 - **Topological Network Analysis**
-- **GIS Spatial Analysis, etc.**
+- **Construction of Macro and Micro Traffic Models, etc.**
 
 <h2>💻 IDE</h2>
 
