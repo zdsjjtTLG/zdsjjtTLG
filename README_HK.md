@@ -1,26 +1,28 @@
 [简体中文](./README.md) | [English](./README_EN.md) | [繁體中文](./README_HK.md)
 
 
-<h2>👋 关于我</h2>
+<h2>👋 關於我</h2>
 
-你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者，也是一名B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，当然，我也是一名摄影爱好者，这是我的 [500px主页](https://500px.com.cn/tangkai)
+你好，我是唐鎧(TangKai)，2020年畢業於哈爾濱工業大學 - 交通運輸工程專業，一名交通大數據算法工程師，開源事業的堅定擁護者
+
+我是B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，當然，我也是攝影愛好者，這是我的 [500px首頁](https://500px.com.cn/tangkai)
 
 
-<h2>🧐 研究兴趣</h2>
+<h2>🧐 研究興趣</h2>
 
-我的主要研究兴趣主要集中在(但不限于)：
+我主要的研究興趣主要集中在(但不限於)：
 
-- **轨迹数据挖掘**
-- **宏微观交通模型构建**
-- **拓扑网络分析**
-- **GIS空间分析等**
+- **軌跡資料探勘**
+- **宏觀交通模型構建**
+- **拓樸網路分析**
+- **GIS空間分析等**
 
-<h2>🏆 GitHub活动</h2>
+<h2>🏆 GitHub活動</h2>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=#4472C4&days=90)](https://github.com/zdsjjtTLG)
 
 
-<h2>💻 集成开发环境</h2>
+<h2>💻 整合開發環境</h2>
 
 <p>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a>
@@ -32,7 +34,7 @@
 </p>
 
 
-<h2>💬 与我联系</h2>
+<h2>💬 與我聯繫</h2>
 
 <p align="left">
     <a href="https://github.com/zdsjjtTLG" target="blank">
