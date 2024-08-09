@@ -19,7 +19,7 @@
 
 <h2>🏆 GitHub活动</h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=FFFFFF&days=90)](https://github.com/zdsjjtTLG)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=#4472C4&days=90)](https://github.com/zdsjjtTLG)
 
 
 <h2>💻 集成开发环境</h2>
