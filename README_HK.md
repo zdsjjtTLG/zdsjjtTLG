@@ -1,11 +1,9 @@
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
+[简体中文](./README.md) | [English](./README_EN.md) | [繁體中文](./README_HK.md)
 
 
 <h2>👋 关于我</h2>
 
-你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者
-
-也是一名B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，当然，我也是一名摄影爱好者，这是我的 [500px主页](https://500px.com.cn/tangkai)
+你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者，也是一名B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，当然，我也是一名摄影爱好者，这是我的 [500px主页](https://500px.com.cn/tangkai)
 
 
 <h2>🧐 研究兴趣</h2>

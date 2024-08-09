@@ -1,26 +1,28 @@
-[English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
+[简体中文](./README.md) | [English](./README_EN.md) | [繁體中文](./README_HK.md)
 
 
-<h2>👋 关于我</h2>
+<h2>👋 About Me</h2>
 
-你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者，也是一名B站Up主：[码不停的Tank](https://space.bilibili.com/49719605)，当然，我也是一名摄影爱好者，这是我的 [500px主页](https://500px.com.cn/tangkai)
+Hello, I am Tang Kai. I graduated from Harbin Institute of Technology in 2020 with a major in transportation engineering. I am a traffic big data algorithm engineer, a staunch supporter of open source. 
+
+I am a blogger of Bilibili: [码不停的Tank](https://space.bilibili.com/49719605), Of course, I am also a photography enthusiast, this is my [500px Home Page](https://500px.com.cn/tangkai)
 
 
-<h2>🧐 研究兴趣</h2>
+<h2>🧐 Research Interests</h2>
 
-我的主要研究兴趣主要集中在(但不限于)：
+My main research interests focus on (but are not limited to):
 
-- **轨迹数据挖掘**
-- **宏微观交通模型构建**
-- **拓扑网络分析**
-- **GIS空间分析等**
+- **Trajectory Data Mining**
+- **Construction of Macro and Micro Traffic Models**
+- **Topological Network Analysis**
+- **GIS Spatial Analysis, etc.**
 
-<h2>🏆 GitHub活动</h2>
+<h2>🏆 GitHub Activities</h2>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zdsjjtTLG&theme=minimal&custom_title=TangKai%20活动图&hide_border=true&point=#4472C4&days=90)](https://github.com/zdsjjtTLG)
 
 
-<h2>💻 集成开发环境</h2>
+<h2>💻 IDE</h2>
 
 <p>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a>
@@ -32,7 +34,7 @@
 </p>
 
 
-<h2>💬 与我联系</h2>
+<h2>💬 Contact Me</h2>
 
 <p align="left">
     <a href="https://github.com/zdsjjtTLG" target="blank">
