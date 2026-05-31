@@ -3,7 +3,7 @@
 
 <h2>👋 關於我</h2>
 
-你好，我是唐鎧(TangKai)，2020年畢業於哈爾濱工業大學 - 交通運輸工程專業，一名交通大數據算法工程師，開源事業的堅定擁護者
+你好，我是唐鎧(TangKai)，一名交通大數據算法工程師，開源事業的堅定擁護者
 
 
 - 📰 作品：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地圖匹配框架</a>
