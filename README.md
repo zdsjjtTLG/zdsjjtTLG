@@ -3,7 +3,7 @@
 
 <h2>👋 关于我</h2>
 
-你好，我是唐铠(TangKai)，2020年毕业于哈尔滨工业大学 - 交通运输工程专业，一名交通大数据算法工程师，开源事业的坚定拥护者
+你好，我是唐铠(TangKai)，一名交通大数据算法工程师，开源事业的坚定拥护者
 
 
 - 📰 作品：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">地图匹配框架</a>
