@@ -3,7 +3,7 @@
 
 <h2>👋 About Me</h2>
 
-Hello, I am Tang Kai. I graduated from Harbin Institute of Technology in 2020 with a major in transportation engineering. I am a traffic big data algorithm engineer, a staunch supporter of open source. 
+Hello, I am Tang Kai. I am a traffic big data algorithm engineer, a staunch supporter of open source. 
 
 
 - 📰 Work：<a href="https://github.com/zdsjjtTLG/TrackIt" target="_blank">Framework of MapMatching</a>
