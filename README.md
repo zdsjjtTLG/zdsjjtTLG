@@ -1,4 +1,4 @@
-[简体中文](./README.md) | [English](./README_EN.md) | [繁體中文](./README_HK.md)
+[English](./README_EN.md) | [简体中文](./README.md) | [繁體中文](./README_HK.md)
 
 
 <h2>👋 关于我</h2>
